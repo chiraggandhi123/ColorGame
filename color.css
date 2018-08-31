@@ -1,0 +1,40 @@
+.square{
+width:30%;
+float: left;
+background: purple;
+padding-bottom:30%;
+margin:1.66%;
+border-radius: 30%
+}
+body{
+  background-color: #232323;
+}
+.easy{
+  margin-left: 550px;
+  margin-top: 40px;
+  background:#e43242;
+}
+.hard{
+  background: #e43242;
+}
+h1 {
+  color:#e43242;
+  margin-left: 0px;
+  background:white;
+  height: 100px;
+}
+#container{
+  max-width: 600px;
+  margin: 0  auto;
+}
+#message{
+ color:white;
+}
+.inner{
+  margin-left:450px;
+}
+.reset{
+  color:black;
+  margin-left: 850px;
+  background: #e43242;
+}
